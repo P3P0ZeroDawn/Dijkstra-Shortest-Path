@@ -137,8 +137,8 @@ g++ main.cpp -o dijkstra
 
 ## Team Members
 
--   *Pedro Enrique Sánchez Rodríguez*\
--   *Jorge Araujo Hernández*\
+-   *Pedro Enrique Sánchez Rodríguez*
+-   *Jorge Araujo Hernández*
 
 ------------------------------------------------------------------------
 
